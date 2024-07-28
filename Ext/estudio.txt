@@ -1,0 +1,67 @@
+UpperCamelCase = primera letra de cada palabra con Mayuscula
+camelCase = lo mismo pero la primera palabra va sin Mayuscula
+snake_case = Las palabras van sepradas por _
+
+
+Shift + control + P = Comando de atajos de teclado
+control + b oculta el menu lateral
+control / comenta y descoemnta 
+control k p te abre los archivos que tienes en uso actual
+
+TIPOS DE DATOS
+Los primitivos hacen referencia a una seccion de la ram fija, aveces mucho mas rapida, en la que se almacenan los datos, mientras que la De Referencia, es una parte dinamica de la ram, que puede crecer de forma dinamica, y se dice de referencia, porque ese dato puede hacer referencia a otros elementos dentro de la ram.
+
+Primitivos:
+-Number
+-String
+-Boolean
+-Undefined
+-Null
+
+De referencia:
+-Array
+-Object
+-Functions
+-Clases
+
+Tipos de Lenguajes de Programacion.
+
+Tipado Estatico:
+Cuando definimos una variable, no se le puede cambiar el Tipos
+JAVA
+
+Tipado Dinamico
+Podemos cambiar el valor de la varible
+JAVASCRIPT
+
+
+Expression =  Cada vez que el codio hace algo, y obtenemos un valor de ello, se le dice expresision
+
+Declarations = Palabras reservadas que van a ser referenciadas en un futuro, como Let, Const, function, async function, class, export, import
+
+Statement = it, for, else, switch, declaraciones que no van a ser referenciadas en un futuro, ya que por lo eneral eso los resultados se uardan en variables o declarations. 
+
+
+
+
+Operadores => Crear expresiones => crear algoritmos 
+
+-Aritmeticos
+
+-Asignacion
+
+-Comparacion
+
+-Loicos
+
+-Bitwise
+
+
+
+Tipos de Bucles:
+
+-While
+-Do While
+-For
+-Fot in
+-For of 
